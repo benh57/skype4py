@@ -105,7 +105,7 @@ from api import platform
 import logging
 
 
-__version__ = '1.0.32.1'
+__version__ = '2.0.0'
 """The version of Skype4Py."""
 
 
